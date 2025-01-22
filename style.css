@@ -1,0 +1,26 @@
+/* Apply global font and padding */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header Section */
+h1, h3 {
+    text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
+}
+
+/* Graph Cards with Hover Effects */
+.dccGraph {
+    transition: transform 0.3s ease-in-out;
+}
+.dccGraph:hover {
+    transform: scale(1.05);
+}
+
+/* Custom Footer */
+footer {
+    font-size: 14px;
+    color: #bdc3c7;
+    text-align: center;
+}
