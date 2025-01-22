@@ -1,7 +1,7 @@
-# PlotPy Project: Data Visualization Alternative to Power BI
-PlotPy is a Python-based data visualization project designed to serve as an alternative to Power BI for creating interactive and insightful dashboards. This project leverages libraries like Plotly, Pandas, and Matplotlib to deliver powerful, user-friendly data visualizations directly in Python.
+# Plotly Project: Data Visualization Alternative to Power BI
+Plotly is a Python-based data visualization project designed to serve as an alternative to Power BI for creating interactive and insightful dashboards. This project leverages libraries like Plotly, Pandas, and Matplotlib to deliver powerful, user-friendly data visualizations directly in Python.
 
-Why PlotPy?
+Why Plotly?
 Flexibility and Customization: Unlike Power BI, which has predefined settings, PlotPy allows for fully customizable charts and plots.
 Cost-Effective: Built entirely using Python libraries, it's free and open-source.
 For Python Enthusiasts: Seamlessly integrates with Python scripts for additional data processing or analysis.
